@@ -162,7 +162,7 @@ nav > ul {
 }
 
 #hero input[type='submit']:hover {
-  background-color: orange;
+  background-color: green;
   transition: background-color 1s;
 }
 
