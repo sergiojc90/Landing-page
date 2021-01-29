@@ -181,8 +181,7 @@ nav > ul {
   align-items: center;
   justify-content: center;
   height: 125px;
-  width: 20vw;
-  color: darkorange;
+  width: auto;
 }
 
 @media (max-width: 550px) {
@@ -197,7 +196,7 @@ nav > ul {
   justify-content: center;
   height: 125px;
   width: 80vw;
-  padding: 5px;
+  padding: 50px;
 }
 
 @media (max-width: 550px) {
