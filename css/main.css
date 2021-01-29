@@ -1,0 +1,19 @@
+body{
+    align-content: center;
+}
+header{
+    display: flex;
+    position: relative;
+}
+#header-img{
+    width: 100px;
+    height: 100px;
+}
+#nav-var{
+    display: flex;
+    position: sticky;
+}
+.form{
+    display: flex;
+    align-items: center;
+}
